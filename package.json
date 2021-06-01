@@ -10,6 +10,9 @@
     "start": "node dist/server.js ./config.json",
     "test": "echo \"No tests are specified\""
   },
+  "engines": {
+    "node": "7.x"
+  },
   "author": "",
   "license": "ISC",
   "typings": "index.d.ts",
